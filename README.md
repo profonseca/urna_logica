@@ -2,6 +2,7 @@
 Trabalho da disciplina de Estrutura de Dados
 
 Aplicação publicada: https://profonseca.github.io/urna_logica/
+O site é atualizado automaticamente a cada envio para a branch `main`.
 
 # Run and deploy your AI Studio app
 
