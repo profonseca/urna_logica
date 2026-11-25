@@ -1,0 +1,6 @@
+{
+  "name": "Urna Lógica: O Enigma da Eleição de Verídia",
+  "description": "Jogo educativo de investigação e estruturas de dados (Vetores, Ordenação, Pilha, Fila, Lista Ligada, Grafos, BFS/DFS e Árvore AVL) com visualizações interativas, testes automatizados e relatório técnico em PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
